@@ -4,7 +4,7 @@
       <v-col cols="12">
         <v-card>
           <v-card-title class="d-flex justify-space-between align-center">
-            👥 ผู้ใช้ทั้งหมด
+            ผู้ใช้ทั้งหมด
             <v-btn
               color="primary"
               prepend-icon="mdi-account-plus"

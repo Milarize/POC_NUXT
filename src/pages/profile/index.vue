@@ -6,7 +6,7 @@
           <v-col cols="12">
             <v-card class="mx-auto" max-width="600">
               <v-card-title class="text-h4 text-center pa-4">
-                👤 Profile Page
+                 Profile Page
               </v-card-title>
               
               <v-card-text>

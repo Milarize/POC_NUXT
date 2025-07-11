@@ -4,7 +4,7 @@
       <v-col cols="12">
         <v-card>
           <v-card-title class="d-flex justify-space-between align-center">
-            📦 สินค้าทั้งหมด
+             สินค้าทั้งหมด
             <v-btn
               color="primary"
               prepend-icon="mdi-plus"
@@ -100,7 +100,6 @@ const products = ref<Product[]>([
 ])
 
 const addProduct = () => {
-  // TODO: Implement add product logic
   console.log('เพิ่มสินค้าใหม่')
 }
 </script> 

@@ -4,13 +4,13 @@
       <v-col cols="12">
         <v-card>
           <v-card-title class="text-h4 text-center">
-            ℹ️ เกี่ยวกับโปรเจค
+             เกี่ยวกับโปรเจค
           </v-card-title>
           <v-card-text>
             <v-row>
               <v-col cols="12" md="6">
                 <v-card variant="outlined">
-                  <v-card-title>🎯 วัตถุประสงค์</v-card-title>
+                  <v-card-title> วัตถุประสงค์</v-card-title>
                   <v-card-text>
                     <p>โปรเจคนี้สร้างขึ้นเพื่อทดสอบการใช้งาน:</p>
                     <v-list>
@@ -33,7 +33,7 @@
 
               <v-col cols="12" md="6">
                 <v-card variant="outlined">
-                  <v-card-title>🛠️ เทคโนโลยีที่ใช้</v-card-title>
+                  <v-card-title> เทคโนโลยีที่ใช้</v-card-title>
                   <v-card-text>
                     <v-chip-group>
                       <v-chip color="primary" variant="outlined">Nuxt 3</v-chip>

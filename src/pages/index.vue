@@ -6,7 +6,7 @@
           <v-card>
             <v-card-title>ยินดีต้อนรับ</v-card-title>
             <v-card-text>
-              <p>นี่คือหน้าแรกของ Nuxt 3 Demo ที่ทดสอบ:</p>
+              <p>นี่คือหน้าแรกที่ทดสอบ</p>
               <v-list>
                 <v-list-item>
                   <v-list-item-title>Router Navigation</v-list-item-title>
